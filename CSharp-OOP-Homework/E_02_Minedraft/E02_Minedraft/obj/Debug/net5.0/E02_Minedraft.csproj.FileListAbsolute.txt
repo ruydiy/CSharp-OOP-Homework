@@ -1,0 +1,16 @@
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\bin\Debug\net5.0\E02_Minedraft.exe
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\bin\Debug\net5.0\E02_Minedraft.deps.json
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\bin\Debug\net5.0\E02_Minedraft.runtimeconfig.json
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\bin\Debug\net5.0\E02_Minedraft.runtimeconfig.dev.json
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\bin\Debug\net5.0\E02_Minedraft.dll
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\bin\Debug\net5.0\ref\E02_Minedraft.dll
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\bin\Debug\net5.0\E02_Minedraft.pdb
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\obj\Debug\net5.0\E02_Minedraft.csprojAssemblyReference.cache
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\obj\Debug\net5.0\E02_Minedraft.GeneratedMSBuildEditorConfig.editorconfig
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\obj\Debug\net5.0\E02_Minedraft.AssemblyInfoInputs.cache
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\obj\Debug\net5.0\E02_Minedraft.AssemblyInfo.cs
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\obj\Debug\net5.0\E02_Minedraft.csproj.CoreCompileInputs.cache
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\obj\Debug\net5.0\E02_Minedraft.dll
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\obj\Debug\net5.0\ref\E02_Minedraft.dll
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\obj\Debug\net5.0\E02_Minedraft.pdb
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E02_Minedraft\E02_Minedraft\obj\Debug\net5.0\E02_Minedraft.genruntimeconfig.cache

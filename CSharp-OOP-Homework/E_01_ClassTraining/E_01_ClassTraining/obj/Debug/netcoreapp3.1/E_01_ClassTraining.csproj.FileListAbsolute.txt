@@ -1,0 +1,13 @@
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\bin\Debug\netcoreapp3.1\E_01_ClassTraining.exe
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\bin\Debug\netcoreapp3.1\E_01_ClassTraining.deps.json
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\bin\Debug\netcoreapp3.1\E_01_ClassTraining.runtimeconfig.json
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\bin\Debug\netcoreapp3.1\E_01_ClassTraining.runtimeconfig.dev.json
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\bin\Debug\netcoreapp3.1\E_01_ClassTraining.dll
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\bin\Debug\netcoreapp3.1\E_01_ClassTraining.pdb
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\obj\Debug\netcoreapp3.1\E_01_ClassTraining.csprojAssemblyReference.cache
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\obj\Debug\netcoreapp3.1\E_01_ClassTraining.AssemblyInfoInputs.cache
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\obj\Debug\netcoreapp3.1\E_01_ClassTraining.AssemblyInfo.cs
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\obj\Debug\netcoreapp3.1\E_01_ClassTraining.csproj.CoreCompileInputs.cache
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\obj\Debug\netcoreapp3.1\E_01_ClassTraining.dll
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\obj\Debug\netcoreapp3.1\E_01_ClassTraining.pdb
+D:\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_01_ClassTraining\E_01_ClassTraining\obj\Debug\netcoreapp3.1\E_01_ClassTraining.genruntimeconfig.cache

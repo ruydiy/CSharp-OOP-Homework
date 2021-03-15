@@ -1,0 +1,16 @@
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\bin\Debug\net5.0\E_03_GrandPrix.exe
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\bin\Debug\net5.0\E_03_GrandPrix.deps.json
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\bin\Debug\net5.0\E_03_GrandPrix.runtimeconfig.json
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\bin\Debug\net5.0\E_03_GrandPrix.runtimeconfig.dev.json
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\bin\Debug\net5.0\E_03_GrandPrix.dll
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\bin\Debug\net5.0\ref\E_03_GrandPrix.dll
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\bin\Debug\net5.0\E_03_GrandPrix.pdb
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\obj\Debug\net5.0\E_03_GrandPrix.csprojAssemblyReference.cache
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\obj\Debug\net5.0\E_03_GrandPrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\obj\Debug\net5.0\E_03_GrandPrix.AssemblyInfoInputs.cache
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\obj\Debug\net5.0\E_03_GrandPrix.AssemblyInfo.cs
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\obj\Debug\net5.0\E_03_GrandPrix.csproj.CoreCompileInputs.cache
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\obj\Debug\net5.0\E_03_GrandPrix.dll
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\obj\Debug\net5.0\ref\E_03_GrandPrix.dll
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\obj\Debug\net5.0\E_03_GrandPrix.pdb
+D:\software engineering\вту софтуерно инженерство\1-ви курс\2-ри семестър\Обектно ориентирано програмиране\Упражнения\E_03_GrandPrix\E_03_GrandPrix\obj\Debug\net5.0\E_03_GrandPrix.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E_03_GrandPrix/1.0.0": {
+        "runtime": {
+          "E_03_GrandPrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E_03_GrandPrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
